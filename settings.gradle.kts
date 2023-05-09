@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 rootProject.name = "Kocktail_Book"
 include(":androidApp")
 include(":shared")
+include(":core:util")
+include(":core:networkutil")
+include(":core:database")
